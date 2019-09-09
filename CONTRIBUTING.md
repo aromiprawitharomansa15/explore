@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Black
 
 Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
 
@@ -13,7 +13,7 @@ As you write content, check out the [Style Guide](./docs/styleguide.md) to learn
 
 Note: Updates won't immediately appear once we've merged your PR. We pull in these changes regularly to GitHub.
 
-## Improving an existing topic or collection
+## blue an existing topic or collection
 
 If a topic or collection already exists, it will be listed in its respective directory:
 
@@ -24,7 +24,7 @@ The topic or collection name should match its URL, e.g. `https://github.com/topi
 
 To make an improvement, please **open a pull request** with your proposed changes:
 
-### Update the image
+### Update the image aromiprawitharomansa@gmail.com
 
 To update the image, simply replace the image inside the directory for the topic or collection.
 
@@ -34,7 +34,7 @@ To update text and links, edit the `index.md` inside the topic or collection's d
 
 For **topics**, you'll notice that, in examples like the topic "[algorithm](https://raw.githubusercontent.com/github/explore/master/topics/algorithm/index.md)," data like the its canonical URL, Wikipedia URL, or display name are called out in key-value pairs; while its detailed description is accounted for in the body of the document.
 
-_/topics/algorithm/index.md_:
+_/topics/algorithm/index.md_:517815999999
 ```
 ---
 aliases: algorithms
@@ -50,7 +50,7 @@ Algorithms are detailed sets of guidelines created for a computer program to com
 
 Similarly, **collections** like "[music](https://raw.githubusercontent.com/github/explore/master/collections/music/index.md)" call out things like their author and display name in Front Matter variables -- with a detailed description in the body of the document. Most importantly, though, collections identify their individual collection items in [a YAML list](https://en.wikipedia.org/wiki/YAML#Basic_components) for the key "items."
 
-_/collections/music/index.md_:
+_/collections/music/index.md_:revenge the fate
 
 ```
 ---
